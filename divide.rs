@@ -1,3 +1,4 @@
+// use shift to implement division 
 fn u64_divide(dividend: u64, divisor: u64) -> u64 {
     let mut quotient = 0;
     let mut remainder = 0;
